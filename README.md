@@ -1,3 +1,6 @@
+📖 **Documentation site:**  
+https://xtinead.github.io/kubernetes-observability-and-scaling-platform/
+
 # Kubernetes Observability and Scaling Platform
 
 Production-style Kubernetes operations repository demonstrating observability, AWS-native monitoring, and autoscaling patterns for an EKS-based platform.
