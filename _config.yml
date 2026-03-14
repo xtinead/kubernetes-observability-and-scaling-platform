@@ -1,0 +1,3 @@
+title: Kubernetes Observability and Scaling Platform
+description: Prometheus, Grafana, CloudWatch monitoring and Kubernetes autoscaling architecture on AWS EKS
+theme: jekyll-theme-cayman
