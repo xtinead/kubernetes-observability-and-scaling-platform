@@ -8,7 +8,7 @@ The focus is on building operational visibility and reliable scaling behavior ac
 
 # Observability Architecture
 
-![Observability Architecture](../diagrams/01-observability-architecture.png)
+![Observability Architecture](assets/images/01-observability-architecture.png)
 
 The observability layer provides insight into:
 
@@ -27,7 +27,7 @@ CloudWatch provides AWS-native monitoring for infrastructure components.
 
 # Metrics and Alerting Flow
 
-![Metrics and Alerting Flow](../diagrams/02-metrics-and-alerting-flow.png)
+![Metrics and Alerting Flow](assets/images/02-metrics-alerting-flow.png)
 
 Metrics flow through the platform as follows:
 
@@ -43,7 +43,7 @@ This model provides both application-level and infrastructure-level visibility.
 
 # Autoscaling Architecture
 
-![HPA Autoscaling Flow](../diagrams/03-hpa-autoscaling-flow.png)
+![HPA Autoscaling Flow](assets/images/03-hpa-autoscaling-flow.png)
 
 Horizontal Pod Autoscaling allows workloads to scale based on demand.
 
