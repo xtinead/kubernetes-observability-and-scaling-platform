@@ -27,7 +27,7 @@ CloudWatch provides AWS-native monitoring for infrastructure components.
 
 # Metrics and Alerting Flow
 
-![Metrics and Alerting Flow](assets/images/02-metrics-alerting-flow.png)
+![Metrics and Alerting Flow](assets/images/02-metrics-and-alerting-flow.png)
 
 Metrics flow through the platform as follows:
 
