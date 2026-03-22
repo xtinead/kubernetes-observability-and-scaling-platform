@@ -93,6 +93,7 @@ It complements infrastructure provisioning and GitOps delivery systems by focusi
 ## Author
 
 **Christine Adelusi**  
+
 Senior DevOps / Platform Engineer  
 
 AWS • Kubernetes • Prometheus • Grafana • CloudWatch • Autoscaling
