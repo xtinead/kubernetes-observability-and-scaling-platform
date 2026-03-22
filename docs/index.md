@@ -87,3 +87,12 @@ This repository demonstrates how to design a Kubernetes environment that is:
 - capable of supporting production workloads
 
 It complements infrastructure provisioning and GitOps delivery systems by focusing on runtime platform operations.
+
+---
+
+## Author
+
+**Christine Adelusi**  
+Senior DevOps / Platform Engineer  
+
+AWS | Kubernetes | Prometheus | Grafana | CloudWatch | Autoscaling
